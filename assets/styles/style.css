@@ -2,6 +2,7 @@
 :root {
   margin: 0;
   padding: 0;
+  /* line-height: 150%; */
 }
 body {
   margin: 0;
@@ -59,7 +60,7 @@ body {
 }
 #cardH1 {
   font-size: 24px;
-  font-weight: 1000;
+  font-weight: 800;
   margin: 0;
 }
 #cardH1:hover {
