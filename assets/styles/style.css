@@ -2,7 +2,6 @@
 :root {
   margin: 0;
   padding: 0;
-  line-height: 150%;
 }
 body {
   margin: 0;
@@ -70,11 +69,12 @@ body {
   margin: 0;
   font-size: 1rem;
   color: #6b6b6b;
+  line-height: 150%;
 }
 .author {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: 1rem;
 }
 #userPic {
   height: 2rem;
